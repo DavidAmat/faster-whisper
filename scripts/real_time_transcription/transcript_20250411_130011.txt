@@ -1,0 +1,35 @@
+Transcription started at: 2025-04-11 13:00:11
+
+[0.0-2.0s] Hello, hello, hello, can you hear me?
+[0.0-2.0s] Can you hear me?
+[0.0-2.0s] Hello, hello. Can you hear me? Can you hear me?
+[0.0-2.0s] Can you hear me?
+[2.0-4.0s] Can you hear me?
+[0.0-2.0s] Hello, hello, hello, hello.
+[0.0-2.0s] Okay today I'm going to present
+[0.0-2.0s] main presentation that it's going to be...
+[0.0-2.0s] called...
+[0.0-2.0s] Well, I'm talking about
+[0.0-2.0s] something that you...
+[0.0-2.0s] may have realized that.
+[0.0-2.0s] It's that
+[0.0-2.0s] I'm currently working in...
+[0.0-2.0s] a new project that involves...
+[0.0-2.0s] Installing AI
+[0.0-2.0s] in our systems.
+[0.0-2.0s] which mainly will be
+[0.0-2.0s] our machine learning platform which
+[0.0-2.0s] is an entry point.
+[0.0-2.0s] And basically this entry point is...
+[0.0-2.0s] It's responsible, no, for it.
+[0.0-2.0s] the docker set up.
+[0.0-2.0s] when you are installing all the dependencies.
+[0.0-2.0s] using my project domain.
+[0.0-2.0s] In poetry it
+[0.0-2.0s] everything becomes
+[0.0-2.0s] be more organized.
+[0.0-2.0s] in the boy2log file.
+[0.0-2.0s] And yes, that's...
+[0.0-2.0s] That's a presentation.
+
+Transcription ended at: 2025-04-11 13:01:37

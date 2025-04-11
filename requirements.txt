@@ -4,3 +4,5 @@ tokenizers>=0.13,<1
 onnxruntime>=1.14,<2 
 av>=11
 tqdm
+yt-dlp>=2024.3.10
+torch>=2.2.0

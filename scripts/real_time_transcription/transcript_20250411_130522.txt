@@ -1,0 +1,11 @@
+Transcription started at: 2025-04-11 13:05:22
+
+[0-5.0s] Hello hello hello, welcome to my new page that is going to be
+[5.0-10.0s] the new transcript that I'm doing on my new application.
+[10.0-15.0s] that it will be really cool. So here basically
+[15.0-20.0s] We are running a five seconds delay
+[20.0-25.0s] Transcript that basically it's having some delay because it allows to see
+[25.0-30.0s] some cool timings, you know, in the terminal.
+[30.0-35.0s] And yeah, this is basically what I tested, thank you for everything.
+
+Transcription ended at: 2025-04-11 13:06:04
